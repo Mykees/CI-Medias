@@ -1,0 +1,13 @@
+.alignLeft{
+	float: left;
+	margin: 0px 10px 10px 0;
+}
+.alignRight{
+	float: right;
+	margin: 0px 0px 10px 10px;
+}
+.alignCenter{
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
