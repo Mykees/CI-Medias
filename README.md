@@ -1,6 +1,6 @@
 CI-Medias
 =========
 
-Medias system for the Codeigniter
+Medias system for Codeigniter
 
 More details coming soon
